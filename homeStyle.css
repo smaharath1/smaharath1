@@ -54,6 +54,10 @@ div.list{
     width: 50%;
     margin: auto;
 }
+.image-container img{
+    height: 80%;
+    width:40%;
+}
 .container{
     text-align: center;
     background-color: #f7b578;
